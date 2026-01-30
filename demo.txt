@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is my feature login branch
 
+=======
+this is my hot fix  and new hot fix feature added
+>>>>>>> hot_fix
